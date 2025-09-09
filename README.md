@@ -15,10 +15,12 @@ Fue desarrollada como **prototipo funcional** para *Galerías Wuayta*, integrand
 ### 🖼️ Aplicación Y Negocio (pantallas principales)
 ![Pantalla principal](assets/Imasgen5.jpg)
 ![Pantalla principal](assets/Imassgen2.png)
+### 💳 API de Pagos (Stripe)
+
+*![Pantalla principal](assets/Captssura.JPG)
 
 
-## 🧪 Prototipo interactivo
-### 🌐 Página del prototipo (mockup)
+### 🌐 Página del prototipado (mockup)
 Se encuentra disponible un **mockup de alta fidelidad** que permite **interactuar con la propuesta de la aplicación**.
 
 👉 [Ver prototipo interactivo (Wuayta)](https://goo.su/bUKD7)   (https://goo.su/bUKD7) 
@@ -26,9 +28,6 @@ Se encuentra disponible un **mockup de alta fidelidad** que permite **interactua
 ![Pantalla principal](assets/Imagsen3.png) 
 ---
 
-### 💳 API de Pagos (Stripe)
-
-*![Pantalla principal](assets/Captssura.JPG)
 
 ### 🖼️ Funcionalidad principal
 
