@@ -12,8 +12,8 @@ Fue desarrollada como **prototipo funcional** para *Galerías Wuayta*, integrand
 
 ## ✨ Características clave
 
-### 🖼️ Aplicación (pantallas principales)
-
+### 🖼️ Aplicación Y Negocio (pantallas principales)
+![Pantalla principal](assets/Imasgen5.jpg)
 ![Pantalla principal](assets/Imassgen2.png)
 
 
