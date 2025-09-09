@@ -2,7 +2,7 @@
 # 🎨 Wuayta — Sistema Web para Exhibición y Venta de Obras de Arte
 
 **Resumen:**
-Aplicación **web ** diseñada para **galerías de arte**.
+Aplicación **web** diseñada para **galerías de arte**.
 Permite la **exhibición de obras**, la **gestión de artistas y clientes**, y el **procesamiento de pagos en línea**.
 Fue desarrollada como **prototipo funcional** para *Galerías Wuayta*, integrando tecnologías modernas en frontend y backend.
 
@@ -15,7 +15,7 @@ Fue desarrollada como **prototipo funcional** para *Galerías Wuayta*, integrand
 ### 🖼️ Aplicación (pantallas principales)
 
 ![Pantalla principal](assets/Imassgen2.png)
-![Pantalla principal] (assets/Imagsen3.png) 
+
 
 ## 🧪 Prototipo interactivo
 ### 🌐 Página del prototipo (mockup)
@@ -23,6 +23,7 @@ Se encuentra disponible un **mockup de alta fidelidad** que permite **interactua
 
 👉 [Ver prototipo interactivo (Wuayta)](https://goo.su/bUKD7)   (https://goo.su/bUKD7) 
 ![Pantalla principal](assets/Imsagen1.png)
+![Pantalla principal](assets/Imagsen3.png) 
 ---
 
 ### 💳 API de Pagos (Stripe)
